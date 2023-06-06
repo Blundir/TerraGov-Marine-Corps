@@ -62,3 +62,7 @@
   - refactor: refactored acid code
   tyeagg:
   - bugfix: gun attachments now rotate with the gun
+2023-06-06:
+  QualityVan:
+  - bugfix: Power pouches disconnect from guns properly when one is dropped
+  - bugfix: Dropping your gun while blind resets any active scope
